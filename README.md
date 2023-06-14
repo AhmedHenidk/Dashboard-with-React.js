@@ -1,3 +1,3 @@
 # Dashboard-with-React.js
-Dashboard ( Dynamic Data )
+<h3>Dashboard ( Dynamic Data )</h>
 Dynamic data fetch from Firebase
